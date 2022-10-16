@@ -173,4 +173,4 @@ async def on_message(message):
     print(ID, cmd)
 
 
-client.run("MTAzMTIxNjY1OTEzNjAwNDE1Ng.GgMESc.gOMhPsJAOK445gmzySY7Jz-XlT0nTYlDB9ledo")
+client.run("MTAzMTIxNjY1OTEzNjAwNDE1Ng.GdDGM1.nBqn0cLeGWlMrxZej2djr0-6qf4UMZzkhWjZwI")
